@@ -1,6 +1,6 @@
 # DPSG Rover (Schriftart)
 
-**DPSG Rover** ist eine Opentype-Schriftart (`.otf`), gestaltet von **Björn** und verfeinert. Björn hat sich darüber geärgert, das die "Originalschriftart" des rover-Logos (Stencil ITC) so teuer war und hat sie daher eigenhändig nachgebaut. Nach und nach wurden die DPSG-Lilie und das rover-Männchen (DPSG DV Paderborn) hinzugefügt.
+**DPSG Rover** ist eine Opentype-Schriftart (`.otf`), gestaltet von Björn und verfeinert von anderen. Björn hat sich damals(tm) darüber geärgert, das die "Originalschriftart" des rover-Logos (Stencil ITC) so teuer war und hat sie daher eigenhändig nachgebaut. Nach und nach wurden die DPSG-Lilie und das rover-Männchen (DPSG DV Paderborn) hinzugefügt.
 
 
 ---
