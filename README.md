@@ -1,6 +1,6 @@
 # DPSG Rover (Schriftart)
 
-**DPSG Rover** ist eine TrueType-Schriftart (`.ttf`), gestaltet von **Björn**. Björn hat sich darüber geärgert, das die "Originalschriftart" des rover-Logos (Stencil ITC) so teuer war und hat sie daher eigenhändig nachgebaut. Nach und nach wurden die DPSG-Lilie und das rover-Männchen (DPSG DV Paderborn) hinzugefügt.
+**DPSG Rover** ist eine Opentype-Schriftart (`.otf`), gestaltet von **Björn** und verfeinert. Björn hat sich darüber geärgert, das die "Originalschriftart" des rover-Logos (Stencil ITC) so teuer war und hat sie daher eigenhändig nachgebaut. Nach und nach wurden die DPSG-Lilie und das rover-Männchen (DPSG DV Paderborn) hinzugefügt.
 
 
 ---
@@ -8,13 +8,13 @@
 ## Installation
 
 ### Windows
-1. Lade die Datei `DPSG_rover.ttf` herunter.
+1. Lade die Datei `dpsg-rover.oft` herunter.
 2. Klicke mit der rechten Maustaste auf die Datei und wähle **Installieren**  
    (oder **Installieren für alle Benutzer**, falls verfügbar).
 3. Die Schriftart ist sofort ina allen Programmen (Word, LibreOffice, Photoshop ...) nutzbar.
 
 ### macOS
-1. Lade die Datei `DPSG_rover.ttf` herunter.
+1. Lade die Datei `dpsg-rover.oft` herunter.
 2. Öffne die Datei per Doppelklick – die **Schriftsammlung** wird geöffnet.
 3. Klicke auf **Installieren**.
 4. Die Schriftart steht sofort systemweit in allen Anwendungen zur Verfügung.
