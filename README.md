@@ -1,9 +1,12 @@
 # DPSG Rover (Schriftart)
 
-**DPSG Rover** ist eine Opentype-Schriftart (`.otf`), ursprünglich erstellt vom roverDAK DV Paderborn (mit Björn). Wir haben uns damals(tm) sehr darüber geärgert, das die "Originalschriftart" des rover-Logos (Stencil ITC) von de DPSG so teuer war. Daher wurde der Font kurzerhand vollständig nachgebaut. Später wurde die DPSG-Lilie und das rover-Männchen (vom DPSG DV Paderborn) hinzugefügt.
+<img align="right" width="100" src="https://raw.githubusercontent.com/weed-/dpsg-rover-font/refs/heads/main/dpsg-rover-schriftart.png">
+
+Der **DPSG Rover Font** (oder auch die "rover Schriftart") ist eine freie Opentype-Implementierung der Schriftart aus dem rover-Logo (OpenType `.otf`). 
+
+Ursprünglich erstellt wurde das TTF vom roverDAK DV Paderborn (mit Björn). Wir haben uns damals(tm) darüber geärgert, das die "Originalschriftart" des rover-Logos ("ITC American Typewriter Bold" von Joel Kaden und Tony Stan) so *unglaublich* teuer war Selbst heute, viele Jahre nach dem Tod der Künstler, kostet die Lizenz zur Nutzung der Vorlage noch immer ~50€. Daher haben wir den Font kurzerhand vollständig und etwas verändert nachgebaut. Später wurden DPSG-Lilie und das rover-Männchen (vom DPSG DV Paderborn) hinzugefügt.
 
 Die Schriftart ist OpenSource, wird aktiv maintained und freut sich über patches mit neuen (rover-) Logos darin.
-
 
 ---
 
@@ -50,13 +53,13 @@ Die "Spezialzeichen" liegen nicht auf den normalen Ligaturen, sondern auf Sonder
   - `Compose` + `o` + `e` → œ  
   - `Compose` + `O` + `E` → Œ
 
----
-
 ## Copypasta
 Wenn alles nicht klappt: einfach diese Zeichen hier kopieren und einfügen 😎
 # `œ`  `Œ`
 
+## Dein Logo fehlt?
 
+Clone dieses Repository, füge deine Insignien hinzu, erhöhe den Versionszähler des OTF und sende einen Pull-Request. Alternativ nehmen wir Updates auch per E-Mail, Telegram, Briefpost, USB-Stick und so weiter.
 
 ---
 
